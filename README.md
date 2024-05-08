@@ -8,6 +8,7 @@ www.linkedin.com/in/sebastian-s-a29b93276
 I'm a Sustainable Systems Engineer, blockchain enthusiast and passionate Project manager.
 I run a blockchain community and organize educational events at the University of Basel,
 under the guidance of Prof. Schär. https://www.linkedin.com/in/fabian-schaer
+
  Where I also completed most of the blockchain courses at the Center for Innovative Finance.
 https://cif.unibas.ch/en/teaching/
 
