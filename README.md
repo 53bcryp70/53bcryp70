@@ -18,12 +18,15 @@ https://cif.unibas.ch/en/teaching/
 - **European Blockchain Convention:** Elected Team Lead for a team that secured 3rd place building a perpetual futures DEX.
 
 ## Skills
-- **Programming Languages:** Python, Matlab, Solidity.
+- **Programming Languages:** 
+     ->Python, Matlab, Solidity.
+- **Project mangement**
+
 
 ## Interests
 - **Blockchain Technology:** Passionate about exploring its potential across industries.
 - **Community Building:** Enjoy fostering connections and organizing events.
 - **Projectmangement:** Leading Teams to their goals.
-- 
+  
 Let's connect for collaborations or discussions!
 
