@@ -1,7 +1,7 @@
 
 
 # Hello, I'm Sebastian.
-www.linkedin.com/in/sebastian-s-a29b93276
+
 
 ## About Me
 
